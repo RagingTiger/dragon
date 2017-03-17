@@ -4,7 +4,7 @@ rcfile="$HOME/.$(basename $SHELL)rc"
 
 # funcs
 dragon_ascii() {
-  echo "$(curl -fsSL https://git.io/dragon.ascii)"
+  echo "$(curl -fsSL https://git.io/asciidragon)"
 }
 
 create_file() {
