@@ -2,7 +2,7 @@
 Simply copy the following into a terminal:
 
 ```
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/RagingTiger/dragon/ee7dd437505cb45abffeb371ce6c68e51d3eccbf/install.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/RagingTiger/dragon/ee7dd437505cb45abffeb371ce6c68e51d3eccbf/install.sh)"
 ```
 
 ```                                    ___====-_  _-====___
