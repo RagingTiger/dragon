@@ -1,3 +1,21 @@
+```                          ___====-_  _-====___
+                       _--~~~#####// '  ` \\#####~~~--_
+                     -~##########// (    ) \\##########~-_
+                   -############//  |\^^/|  \\############-
+                 _~############//   (O||O)   \\############~_
+                ~#############((     \\//     ))#############~
+               -###############\\    (oo)    //###############-
+              -#################\\  / `' \  //#################-
+             -###################\\/  ()  \//###################-
+            _#/|##########/\######(  (())  )######/\##########|\#_
+            |/ |#/\#/\#/\/  \#/\##|  \()/  |##/\#/  \/\#/\#/\#| \|
+            `  |/  V  V  `   V  )||  |()|  ||(  V   '  V /\  \|  '
+               `   `  `      `  / |  |()|  | \  '      '<||>  '
+                               (  |  |()|  |  )\        /|/
+                              __\ |__|()|__| /__\______/|/
+                             (vvv(vvvv)(vvvv)vvv)______|/
+```
+
 ## About
 Simple install script to add the `ASCII Dragon` from the [UNIX fortune](https://en.wikipedia.org/wiki/Fortune_(Unix))
 command
@@ -6,5 +24,5 @@ command
 Simply copy the following into a terminal:
 
 ```
-curl -fsSL https://github.com/RagingTiger/dragon/blob/990bdf61cf849e208e266c94be7134efbfacf5ff/install.sh
+sh -c "$(curl -fsSL https://github.com/RagingTiger/dragon/blob/990bdf61cf849e208e266c94be7134efbfacf5ff/install.sh)"
 ```
