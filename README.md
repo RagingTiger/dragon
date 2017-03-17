@@ -1,5 +1,5 @@
 ## About
-Simple install script to add the `ASCII Dragon` from the [UNIX fortune]()
+Simple install script to add the `ASCII Dragon` from the [UNIX fortune](https://en.wikipedia.org/wiki/Fortune_(Unix))
 command
 
 ## Install
