@@ -1,5 +1,3 @@
-#!/usr/bin/env bash
-
 # globals
 dragonfile="$HOME/.dragonascii"
 rcfile="$HOME/.$(basename $SHELL)rc"
